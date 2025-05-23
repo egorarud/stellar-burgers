@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "orders": [
+        {
+            "_id": "6824b224c2f30c001cb23a17",
+            "ingredients": [
+                "643d69a5c3f7b9001cfa093c",
+                "643d69a5c3f7b9001cfa0941"
+            ],
+            "owner": "6820dc2ec2f30c001cb22fab",
+            "status": "done",
+            "name": "Краторный био-марсианский бургер",
+            "createdAt": "2025-05-14T15:09:24.473Z",
+            "updatedAt": "2025-05-14T15:09:25.271Z",
+            "number": 77155,
+            "__v": 0
+        }
+    ]
+}
